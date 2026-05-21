@@ -1,0 +1,1 @@
+Conta[0].ACC,Conta[1].ACC,relogio[5],Timers[1].ACC
